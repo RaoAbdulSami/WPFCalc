@@ -1,0 +1,15 @@
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.csprojAssemblyReference.cache
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\MainWindow.g.cs
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\App.g.cs
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc_MarkupCompile.cache
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc_MarkupCompile.lref
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\bin\Debug\SimplCalc.exe.config
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\bin\Debug\SimplCalc.exe
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\bin\Debug\SimplCalc.pdb
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\MainWindow.baml
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.g.resources
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.Properties.Resources.resources
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.csproj.GenerateResource.cache
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.csproj.CoreCompileInputs.cache
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.exe
+C:\Users\abdul.sami\source\wpf\repos\SimplCalc\SimplCalc\obj\Debug\SimplCalc.pdb
