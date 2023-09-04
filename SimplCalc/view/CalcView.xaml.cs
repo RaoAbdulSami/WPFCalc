@@ -13,25 +13,16 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-
-using SimplCalc.ViewModels;
-namespace SimplCalc
+namespace SimplCalc.view
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for CalcView.xaml
     /// </summary>
-    /// 
-    public partial class MainWindow : Window
+    public partial class CalcView : UserControl
     {
-        MainWindowViewModel viewModel;
-        public MainWindow()
+        public CalcView()
         {
             InitializeComponent();
-
-            viewModel = new MainWindowViewModel();
-            DataContext = viewModel;
         }
-
-       
     }
 }
